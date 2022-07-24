@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 24 Jul 2022 14:55:26 at https://nagiexe2007.wixsite.com/le-boscq +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://nagiexe2007.wixsite.com/le-boscq -O1 "C:\Users\frican\Desktop\site gite\Leboscq" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/decodeURIComponent(e (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/sitemap.xml (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/feed.xml (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/ (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/version/ (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/da6c52cb.min.css (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/b604fd33.min.css (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/4c758e80.min.css (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/b3e8ff7e.min.css (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/e525ada0.min.css (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/99ad003e.chunk.min.js (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.28acadb2.chunk.min.js (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/rb_wixui.thunderbolt~bootstrap.1af93bc0.chunk.min.css (from https://nagiexe2007.wixsite.com/le-boscq)
+14:55:35	Error: 	"Not Found" (404) at link https://nagiexe2007.wixsite.com/rb_wixui.thunderbolt~bootstrap.99ad003e.chunk.min.js (from https://nagiexe2007.wixsite.com/le-boscq)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 39 links scanned, 24 files written (1605001 bytes overall) [658402 bytes received at 65840 bytes/sec], 1422547 bytes transferred using HTTP compression in 29 files, ratio 27%, 2.4 requests per connection
+(14 errors, 0 warnings, 0 messages)

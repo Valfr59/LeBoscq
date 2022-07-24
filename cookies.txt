@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nagiexe2007.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit#dc#desc=84
+nagiexe2007.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1658667337|GcG8AcmXjQvq
+.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	0141ccf48570b5e39fdc34a01ff8c0ac1f44dc016ca76a38b29a6c41cde382fe2c47d2c9f49e8e653ccfcb13cf90ad8d06d2e4547d5eedcdfe25032b8c0eefcf90976d3d3828ae69dc25cdbf5226b62b406e9d7b30
+nagiexe2007.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	none
+
